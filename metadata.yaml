@@ -1,6 +1,9 @@
 _repo: Sixty-Year-Extension_63742
 _version: 0.1.0
 alternative_title: 60-Year Extension
+covers:
+- cover_type: archival
+  image_path: 63742-h/images/cover.jpg
 creator:
   author:
     agent_name: Nourse, Alan Edward
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25579
     wikipedia: https://en.wikipedia.org/wiki/Alan_E._Nourse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63742#Sixty-Year-Extension
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
